@@ -1,13 +1,10 @@
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Nathistan;Full+Stack+Developer;Machine+Learning+Enthusiast" />
-</p>
+
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Nathistan**, a passionate Full Stack Developer who enjoys building modern web applications and exploring machine learning.  
+I'm **Nathistan**, a passionate Full Stack Developer who enjoys building modern applications and exploring machine learning.  
 I love solving problems, designing systems, and learning new technologies.
 
 ---
@@ -15,7 +12,8 @@ I love solving problems, designing systems, and learning new technologies.
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,django,mysql,git,github,vscode,linux&perline=7" />
+  <!-- Added dotnet and csharp here as well -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,django,mysql,git,github,vscode,linux,dotnet,cs&perline=8" />
 </p>
 
 ---
@@ -31,8 +29,15 @@ I love solving problems, designing systems, and learning new technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Nathistan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Nathistan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <!-- General Profile Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-Nathistan&theme=tokyonight" />
+  <br/>
+  <!-- Top Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Nathistan&theme=tokyonight" />
+  <br/>
+  <!-- Custom Badges to show React and .NET in the stats section -->
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ---
